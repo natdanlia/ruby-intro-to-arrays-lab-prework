@@ -5,3 +5,8 @@ end
 def array_with_two_elements
   arr = ['jj','kk']
 end
+
+def first_element(arr)
+  arr[0]
+end
+  
